@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "Title": "Coffee Tables",
+      "Description": "Lines of description goe here",
+      "Images": [
+		{"images/coffeetable.jpg"},
+      	{"images/coffeetable2.jpg"},
+      	{"images/coffeetable3.jpg"}
+      ]
+    },
+    {
+      "Title": "Cutting Boards",
+      "Description": "Lines of description goe here",
+      "Images": [
+		{"images/cuttingboard.jpg"},
+      	{"images/cuttingboard2.jpg"},
+      	{"images/cuttingboard3.jpg"}
+      ]
+    },
+    {
+      "Title": "Planter Boxes",
+      "Description": "Lines of description goe here",
+      "Images": [
+		{"images/planterbox.jpg"},
+      	{"images/planterbox2.jpg"},
+      	{"images/planterbox3.jpg"}
+      ]
+    },
+    {
+      "Title": "Hand Planes",
+      "Description": "Lines of description goe here",
+      "Images": [
+		{"images/handplane.jpg"},
+      	{"images/handplane2.jpg"},
+      	{"images/handplane3.jpg"},
+      	{"images/handplane4.jpg"}
+      ]
+    },
+    {
+      "Title": "Surfboards",
+      "Description": "Lines of description goe here",
+      "Images": [
+		{"images/surfboard.jpg"},
+      	{"images/surfboard2.jpg"},
+      	{"images/surfboard3.jpg"}
+      ]
+    },
+    {
+      "Title": "Bikes",
+      "Description": "Lines of description goe here",
+      "Images": [
+		{"images/bike.jpg"},
+      	{"images/bike2.jpg"},
+      	{"images/bike3.jpg"}
+      ]
+    }
+  ],
+  "about-me": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "about-me-image": "profile.jpg",
+  "contact-me": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "email": "youremail@gmail.com",
+  "phone": "123-345-233",
+  "instagram": "@instagramlink"
+}
