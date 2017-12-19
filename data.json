@@ -2,63 +2,69 @@
   "projects": [
     {
       "Title": "Coffee Tables",
-      "Description": "Lines of description goe here",
+      "Description_short": "Lines of description goes here",
+      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
-		{"images/coffeetable.jpg"},
-      	{"images/coffeetable2.jpg"},
-      	{"images/coffeetable3.jpg"}
+        "images/coffeetable.jpg",
+        "images/coffeetable2.jpg",
+        "images/coffeetable3.png"
       ]
     },
     {
       "Title": "Cutting Boards",
-      "Description": "Lines of description goe here",
+      "Description_short": "Lines of description goes here",
+      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
-		{"images/cuttingboard.jpg"},
-      	{"images/cuttingboard2.jpg"},
-      	{"images/cuttingboard3.jpg"}
+        "images/cuttingboard.jpg",
+        "images/cuttingboard2.jpg",
+        "images/cuttingboard3.jpg"
       ]
     },
     {
       "Title": "Planter Boxes",
-      "Description": "Lines of description goe here",
+      "Description_short": "Lines of description goes here",
+      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
-		{"images/planterbox.jpg"},
-      	{"images/planterbox2.jpg"},
-      	{"images/planterbox3.jpg"}
+        "images/planterbox.jpg",
+        "images/planterbox2.jpg",
+        "images/planterbox3.jpg"
       ]
     },
     {
       "Title": "Hand Planes",
-      "Description": "Lines of description goe here",
+      "Description_short": "Lines of description goes here",
+      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
-		{"images/handplane.jpg"},
-      	{"images/handplane2.jpg"},
-      	{"images/handplane3.jpg"},
-      	{"images/handplane4.jpg"}
+        "images/handplane.jpg",
+        "images/handplane2.jpg",
+        "images/handplane3.jpg",
+        "images/handplane4.jpg"
       ]
     },
     {
       "Title": "Surfboards",
-      "Description": "Lines of description goe here",
+      "Description_short": "Lines of description goes here",
+      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
-		{"images/surfboard.jpg"},
-      	{"images/surfboard2.jpg"},
-      	{"images/surfboard3.jpg"}
+        "images/surfboard.jpg",
+        "images/surfboard2.jpg",
+        "images/surfboard3.jpg"
       ]
     },
     {
       "Title": "Bikes",
-      "Description": "Lines of description goe here",
+      "Description_short": "Lines of description goes here",
+      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
-		{"images/bike.jpg"},
-      	{"images/bike2.jpg"},
-      	{"images/bike3.jpg"}
+        "images/bike.jpg",
+        "images/bike2.jpg",
+        "images/bike3.jpg"
       ]
     }
   ],
-  "about-me": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  "about-me-image": "profile.jpg",
-  "contact-me": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "about_me": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+  "about_me_image": "images/profile.jpg",
+  "contact_me": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
   "email": "youremail@gmail.com",
   "phone": "123-345-233",
   "instagram": "@instagramlink"
