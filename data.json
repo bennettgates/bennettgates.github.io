@@ -3,7 +3,7 @@
     {
       "Title": "Coffee Table",
       "Description_short": "Hand made live edge river table",
-      "Description": "<p>This table was a fun project made from catalpa wood with blue slate glass cut to fit to the shape of the live edge. The legs are welded together and bolted to the underside of the slab. </p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+      "Description": "<p>This table was a fun project made from catalpa wood with blue slate glass cut to fit to the shape of the live edge. The legs are welded together and bolted to the underside of the slab. </p>",
       "Images": [
         "images/table1.jpg",
         "images/table2",
@@ -14,18 +14,18 @@
     },
     {
       "Title": "Datsun",
-      "Description_short": "Poptop truck campershell",
-      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+      "Description_short": "Pop top truck campershell",
+      "Description": "<p>This is a truck campershell I made for camping and road trips. It is made from repurposed redwood fencing and the sides are vacuum formed layers of mahogany plywood. The surface is laminated with fiberglass and the pop top has canvas siding and hydraulic shocks for lifting it up. </p> </p>",
       "Images": [
-        "images/cuttingboard.jpg",
-        "images/cuttingboard2.jpg",
-        "images/cuttingboard3.jpg"
+        "images/poptop1.jpg",
+        "images/poptop2.jpg",
+        "images/poptop3.jpg"
       ]
     },
     {
-      "Title": "Surfboard Shapping",
-      "Description_short": "Lines of description goes here",
-      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+      "Title": "Surfboard Shaping",
+      "Description_short": "Custom boards and fins",
+      "Description": "<p> I make surfboards ranging from fish, asymmetrical boards, funboards, shortboards, longboards, and stand up paddleboards. I also make hand foiled single fins for chinook boxes and fins for fcs boxes. </p>",
       "Images": [
         "images/planterbox.jpg",
         "images/planterbox2.jpg",
@@ -34,8 +34,8 @@
     },
     {
       "Title": "Hand Planes",
-      "Description_short": "Lines of description goes here",
-      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+      "Description_short": "Fun simple hand planes for body surfing",
+      "Description": "<p>I make hand planes from scrap pieces. The hand planes can have recycled bike tubes for hand straps or hole cutouts. <p>",
       "Images": [
         "images/handplane.jpg",
         "images/handplane2.jpg",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "Title": "Surfboards",
+      "Title": "Cutting Boards",
       "Description_short": "Lines of description goes here",
       "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
