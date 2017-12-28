@@ -17,9 +17,12 @@
       "Description_short": "Pop top truck campershell",
       "Description": "<p>This is a truck campershell I made for camping and road trips. It is made from repurposed redwood fencing and the sides are vacuum formed layers of mahogany plywood. The surface is laminated with fiberglass and the pop top has canvas siding and hydraulic shocks for lifting it up. </p> </p>",
       "Images": [
-        "images/poptop1.jpg",
         "images/poptop2.jpg",
-        "images/poptop3.jpg"
+        "images/poptop1.jpg",
+        "images/poptop3.jpg",
+        "images/poptop4.jpg",
+        "images/poptop5.jpg",
+        "images/poptop6.jpg"
       ]
     },
     {
@@ -70,7 +73,5 @@
   "email": "bennettgates1@gmail.com",
   "phone": "415-871-4165",
   "instagram": "baenetgates"
-
-
 
 }
