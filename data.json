@@ -1,9 +1,9 @@
 {
   "projects": [
     {
-      "Title": "Coffee Tables",
-      "Description_short": "Lines of description goes here",
-      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+      "Title": "Coffee Table",
+      "Description_short": "Hand made live edge river table",
+      "Description": "<p>This table was a fun project made from catalpa wood with blue slate glass cut to fit to the shape of the live edge. The legs are welded together and bolted to the underside of the slab. </p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
         "images/coffeetable.jpg",
         "images/coffeetable2.jpg",
@@ -11,8 +11,8 @@
       ]
     },
     {
-      "Title": "Cutting Boards",
-      "Description_short": "Lines of description goes here",
+      "Title": "Datsun",
+      "Description_short": "Poptop truck campershell",
       "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
         "images/cuttingboard.jpg",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "Title": "Planter Boxes",
+      "Title": "Surfboard Shapping",
       "Description_short": "Lines of description goes here",
       "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "Title": "Bikes",
+      "Title": "Beer Brewing",
       "Description_short": "Lines of description goes here",
       "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
       "Images": [
@@ -62,10 +62,11 @@
       ]
     }
   ],
-  "about_me": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+  "about_me": "<p> I enjoy using my hands and mind to imagine and create. I am a student halfway through obtaining a degree in mechanical engineering. When I am not busy with school I am working on a variety of projects. Each project is related to some or all of the following goals of; pleasing the eye, inducing an unbelievable thrill, providing a place to rest my feet, or producing energy. </p>",
   "about_me_image": "images/profile.jpg",
-  "contact_me": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "contact_me": "If you are interested by the things you see please let me know. I am happy to hear from you and always open to working on custom projects or selling existing porjects",
   "email": "bennettgates1@gmail.com",
   "phone": "415-871-4165",
   "instagram": "baenetgates"
+
 }
