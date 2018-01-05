@@ -30,15 +30,18 @@
       "Description_short": "Custom boards and fins",
       "Description": "<p> I make surfboards ranging from fish, asymmetrical boards, funboards, shortboards, longboards, and stand up paddleboards. I also make hand foiled single fins for chinook boxes and fins for fcs boxes. </p>",
       "Images": [
-        "images/planterbox.jpg",
-        "images/planterbox2.jpg",
-        "images/planterbox3.jpg"
+        "images/surfbort1.jpg",
+        "images/surfbort2.jpg",
+        "images/surfbort3.jpg",
+        "images/surfbort4.jpg",
+        "images/surfbort5.jpg",
+
       ]
     },
     {
-      "Title": "Hand Planes",
-      "Description_short": "Fun simple hand planes for body surfing",
-      "Description": "<p>I make hand planes from scrap pieces. The hand planes can have recycled bike tubes for hand straps or hole cutouts. <p>",
+      "Title": "Toyota Dyna",
+      "Description_short": "Japanese Import 4wd 5sp manual diesel ",
+      "Description": "<p> This is my rusty van truck project. I am in the process of repairing the body with new sheet metal and have plans to make a custom camper in the back.<p>",
       "Images": [
         "images/handplane.jpg",
         "images/handplane2.jpg",
@@ -48,22 +51,20 @@
     },
     {
       "Title": "Cutting Boards",
-      "Description_short": "Lines of description goes here",
-      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+      "Description_short": "Handmade Hardwood Cutting Boards",
+      "Description": "<p></p>",
       "Images": [
-        "images/surfboard.jpg",
-        "images/surfboard2.jpg",
-        "images/surfboard3.jpg"
-      ]
+        "images/cutboard1.jpg",
+        "images/cutboard2.jpg"
+         ]
     },
     {
       "Title": "Beer Brewing",
-      "Description_short": "Lines of description goes here",
-      "Description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+      "Description_short": "10 Gallon Electric Home Brewing Setup ",
+      "Description": "<p>Electric boiler I made from an old keg for making 10 gallon batches of beer. </p>",
       "Images": [
-        "images/bike.jpg",
-        "images/bike2.jpg",
-        "images/bike3.jpg"
+        "images/beer1.jpg",
+        "images/beer2.jpg"
       ]
     }
   ],
